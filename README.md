@@ -6,3 +6,9 @@ Rony Szuster,
 Phelipe Martins,
 Guerra,
 Victor Tavares
+
+You can find the datasets to use on this project in the following folder on Google Drive:
+
+<pre align="center">
+  https://drive.google.com/drive/folders/1FP1mjFmJDFF675dEdwNDfbISxXskrTs9?usp=sharing
+</pre>
