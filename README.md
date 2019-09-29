@@ -7,7 +7,7 @@ Phelipe Martins,
 Guerra,
 Victor Tavares
 
-You can find the datasets to use on this project in the following folder on Google Drive:
+The dataset was first created by Maciej Szpakowski (https://github.com/several27). This is a variation of the original version. You can find the datasets to use on this project in the following folder on Google Drive:
 
 <pre align="center">
   https://drive.google.com/drive/folders/1FP1mjFmJDFF675dEdwNDfbISxXskrTs9?usp=sharing
