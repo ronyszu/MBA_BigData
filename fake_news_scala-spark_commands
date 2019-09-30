@@ -1,0 +1,9 @@
+val df = spark.read.format("csv").option("header","true").load("/home/phelipe/Downloads/news_cleaned_large_final.csv")
+
+val dfAfterDrop = df.drop("_c0").drop("Unnamed: 0").drop("Unnamed: 0.1")
+
+dfAfterDrop.show
+
+val newDf = dfAfterDrop.filter("id is not null and domain is not null and type is not null and content is not null and title is not null")
+
+newDf.show
