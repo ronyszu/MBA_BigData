@@ -1,5 +1,5 @@
 # MBA_BigData
-Big Data project using Apache Spark and Scala to analyse Fake News Data.
+Big Data project using Apache Spark and Scala to analyze Fake News Data.
 
 Group:
 Rony Szuster,
